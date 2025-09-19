@@ -29,7 +29,7 @@ This tool is extremely powerful and potentially dangerous. It will:
    ```
 3. Run the installer as Administrator:
    ```
-   python install_context_menu.py
+   install_as_admin
    ```
 4. Choose option 1 to install the context menu
 
