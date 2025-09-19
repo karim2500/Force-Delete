@@ -112,13 +112,6 @@ To remove the context menu option:
 - Verify the installer ran as Administrator
 - Check if antivirus is blocking registry modifications
 
-## Limitations
-
-- Cannot delete Windows system programs
-- Some protected files may not be removable
-- Registry keys with special permissions may persist
-- Programs with active services may require additional steps
-
 ## Legal Disclaimer
 
 This tool is provided "as is" without warranty. The author is not responsible for any damage caused by its use. This tool is intended for personal use on your own computer only.
