@@ -85,7 +85,7 @@ The tool searches these common locations:
 ## Uninstallation
 
 To remove the context menu option:
-1. Run `python install_context_menu.py` or `install_as_admin` as Administrator
+1. Run `install_as_admin` as Administrator
 2. Choose option 2 to uninstall
 
 ## Safety Notes
